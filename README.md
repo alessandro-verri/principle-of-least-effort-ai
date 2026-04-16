@@ -34,7 +34,7 @@ When analyzing a website or a digital system:
 - they do not resolve contradictions  
 - they do not interpret every nuance  
 
-They reduce.
+They reduce complexity to obtain a manageable representation.
 
 ---
 
@@ -47,6 +47,8 @@ If a digital system is:
 - disorganized  
 - inconsistent  
 - filled with similar but misaligned content  
+
+(in other words: affected by semantic noise)
 
 AI systems will not attempt to understand every variation.
 
