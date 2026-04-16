@@ -93,4 +93,5 @@ The Principle of Least Effort is an established concept adapted here to explain 
 
 ## Related Concepts
 
-- Semantic Noise: https://github.com/alessandro-verri/semantic-noise
+Semantic Noise: https://github.com/alessandro-verri/semantic-noise  
+Semantic Territory: https://github.com/alessandro-verri/semantic-territory
