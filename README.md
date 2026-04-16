@@ -87,3 +87,9 @@ What was distinctive becomes interchangeable.
 ## Note
 
 The Principle of Least Effort is an established concept adapted here to explain how AI systems behave when interpreting complex and inconsistent information.
+
+---
+
+## Related Concepts
+
+- Semantic Noise: https://github.com/alessandro-verri/semantic-noise
