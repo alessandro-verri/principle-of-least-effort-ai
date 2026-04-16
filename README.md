@@ -1,4 +1,5 @@
 # Principle of Least Effort (AI Interpretation)
+Part of the Generative Engine Optimization conceptual framework.
 
 ## Definition
 
