@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you cite this conceptual application in your work, please use the following metadata."
+authors:
+- family-names: "Verri"
+  given-names: "Alessandro"
+  orcid: "https://orcid.org/0009-0006-6354-9799"
+title: "Principle of Least Effort in AI Interpretation: A GEO Conceptual Model"
+version: 1.0.0
+date-released: 2026-04-17
+url: "https://verri.pro/il-principio-del-minimo-sforzo-nell-interpretazione-delle-ia/"
+repository-code: "https://github.com/alessandro-verri/principle-of-least-effort-ai"
+abstract: >-
+  An adaptation of Zipf's Principle of Least Effort to the field of Generative Engine 
+  Optimization. It explains how AI systems minimize computational energy by 
+  simplifying complex or inconsistent digital signals into generic representations.
+keywords:
+  - "Principle of Least Effort"
+  - "AI Interpretation"
+  - "Generative Engine Optimization"
+  - "GEO"
+  - "Computational Efficiency"
+  - "Information Reduction"
+  - "Semantic Simplification"
